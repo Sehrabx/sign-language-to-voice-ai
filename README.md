@@ -1,5 +1,5 @@
 # Sign Language to Voice AI
- 
+
 A real-time computer vision application that recognizes hand gestures through a webcam and converts recognized sign-language words into spoken output.
 
 ## Features
